@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Rohdaten (nicht in Git - zu gross / lizenzrechtlich)
+data/raw/*
+!data/raw/.gitkeep
+*.osm
+*.osm.pbf
+*.pbf
+
+# QGIS Temp
+qgis_project/*.qgz~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# OSMnx Cache
+cache/
