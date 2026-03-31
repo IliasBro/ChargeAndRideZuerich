@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "ladestationen_zh",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element": "node", "id": 8483054087, "name": "E- Bike Ladestation", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.942595808807257, 47.276594810012796 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 8637538351, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.505703708397158, 47.243947510130418 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12005001978, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.61604930836822, 47.674911410231502 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12005001979, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.616143208368303, 47.674921310231483 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12005001980, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.61620080836839, 47.674822910231448 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12007651049, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.507608908349088, 47.407399610183752 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12161392445, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.400906708222072, 47.481808710237637 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12236354054, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.838314708701272, 47.29895291005154 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12612591954, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.448041308324205, 47.298421010165285 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 12850996681, "name": "Velostation Europaplatz", "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.536088708385947, 47.377740310166054 ] } },
+{ "type": "Feature", "properties": { "element": "node", "id": 13113048109, "name": null, "amenity": "charging_station" }, "geometry": { "type": "Point", "coordinates": [ 8.704770008601558, 47.208500010060575 ] } }
+]
+}
