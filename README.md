@@ -1,4 +1,4 @@
-# Charge & Ride Züri
+# Charge & Ride Zürich
 ### Geodatenbasierte Standortoptimierung für E-Bike-Ladestationen im Kanton Zürich
 
 Modul: **Geomarketing & Spatial Data Analysis** | ZHAW School of Management and Law  
