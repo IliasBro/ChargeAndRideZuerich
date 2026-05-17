@@ -113,7 +113,7 @@ ChargeAndRideZuerich/
 
 ```bash
 # Repository klonen
-git clone https://github.com/<USERNAME>/ChargeAndRideZuerich.git
+git clone https://github.com/IliasBro/ChargeAndRideZuerich.git
 cd ChargeAndRideZuerich
 
 # Virtuelle Umgebung erstellen und aktivieren
