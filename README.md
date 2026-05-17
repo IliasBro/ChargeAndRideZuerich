@@ -132,7 +132,7 @@ jupyter lab
 
 Der Kanton-ZH-Datensatz muss einmalig manuell heruntergeladen werden:
 
-1. [OGD Dataset 3062](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3062@tiefbauamt-kanton-zuerich) öffnen
+1. [OGD Dataset 3062](https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/3062@tiefbauamt-kanton-zuerich) öffnen oder  hier gleich herunterladen: [Download](https://daten.statistik.zh.ch/ogd/daten/ressourcen/KTZH_00003062_00006778.csv)
 2. CSV herunterladen
 3. Datei als `data/raw/verkehrszaehldaten_velo_kanton_zh_2024.csv` ablegen
 
